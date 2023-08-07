@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats)
