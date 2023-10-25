@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@m1nddoong0321)  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)  
   
 <div>
   
