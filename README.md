@@ -6,10 +6,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-### Blog
+#### Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)  
 
-### Skills
+#### Skills
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
