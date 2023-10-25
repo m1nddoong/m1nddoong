@@ -6,8 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=alstjsdlr0321)](https://velog.io/@alstjsdlr0321) 
-
+#### Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alstjsdlr0321)](https://velog.io/@alstjsdlr0321)
 
 
