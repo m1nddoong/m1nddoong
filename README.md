@@ -2,19 +2,8 @@
 
 <div align="center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@m1nddoong)  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@m1nddoong)  
   
-  <a href="https://minddooong.tistory.com/">
-  <img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=badge&logo=Tistory&logoColor=white"/>
-  </a> 
-
-
-
-  <a href="https://www.notion.so/ec9f092c8375486dbd8231147f6ce717">
-  <img src="https://img.shields.io/badge/Dalchive-ffffff?style=badge&logo=notion&logoColor=black"/>
-  </a> 
-  
-
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
