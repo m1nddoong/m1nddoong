@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&section=header&text=M1nddoong's%20Backend%20Github&fontSize=25&fontColor=FFFFFF"/>
 
+  <a href="https://velog.io/@seondal/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=badge&logo=notion&logoColor=black"/></a> <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 
