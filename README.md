@@ -1,11 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&section=header&text=M1nddoong's%20Backend%20Github&fontSize=25&fontColor=FFFFFF"/>
 
 <div align="center">
-  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m1nddoong&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m1nddoong&repo=convoychat" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)  
