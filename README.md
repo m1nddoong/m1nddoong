@@ -3,9 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=100&section=header&text=Backend Development&fontSize=15px" />
 
-
-
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alstjsdlr0321)](https://velog.io/@alstjsdlr0321)
 
 
