@@ -2,15 +2,13 @@
 
 <div align="center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)  
-  
-<div>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
+### Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)  
 
 ### Skills
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,5 +40,8 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
+  
+</div>
+  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=100&section=footer"/>
