@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&section=header"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nddoong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
