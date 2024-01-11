@@ -20,7 +20,9 @@
 
 
 
-### Framework, Libraries
+## ⚙️ My Skills
+
+### 📚 Framework, Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
