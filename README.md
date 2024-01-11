@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20M1nddoong's%20Github&section=header&fontAlign=50&fontSize=43&animation=twinkling&fontColor=DBD8F0)
 
 
 
