@@ -1,10 +1,12 @@
-![slice](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to%20M1nddoong's%20Github&section=header&fontAlign=50&fontSize=43&animation=twinkling)
-
-
-
 <div align="center">
 
-#### Blog
+![slice](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to%20M1nddoong's%20Github&section=header&fontAlign=50&fontSize=43&animation=twinkling)
+
+### Introduction 🙌🏻
+안녕하세요! Java 백엔드 개발자를 꿈꾸는 민선익입니다.
+
+#### Aboute Me
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)  
 
 #### Skills
