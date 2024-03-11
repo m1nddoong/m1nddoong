@@ -1,6 +1,6 @@
 <div align="center">
 
-![slice](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to%20M1nddoong's%20Github&section=header&fontAlign=50&fontSize=43&animation=twinkling)
+[// ![slice](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to%20M1nddoong's%20Github&section=header&fontAlign=50&fontSize=43&animation=twinkling)](https://capsule-render.vercel.app/api?type=rounded&height=130&color=gradient&text=Welcome%20to%20M1nddoong's%20Github%20&section=header&reversal=false&fontAlign=50&fontAlignY=50&fontSize=35&animation=twinkling&stroke=00FFFF&strokeWidth=1)
 
 ## Introduction 🙌🏻
 
