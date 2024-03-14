@@ -1,15 +1,15 @@
 <!-- <div align="center"> -->
 
-### Introduction
+### 👐🏻 Introduction
 
 안녕하세요. 백엔드 개발자가 되기 위해 준비중인 취준생 민선익입니다. 
 
 
-### Blog
+### ✏️ Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://m1nddoong.vercel.app/)
 
-### Contact
+### 🤙🏻 Contact
 ✉️ **Email** | alstjsdlr990321@gmail.com
 
 
@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Languages
+### 💬 Languages
 
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
