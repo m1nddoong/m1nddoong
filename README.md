@@ -1,13 +1,11 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 ## Introduction 🙌🏻
 
-
-안녕하세요! Java 백엔드 개발자를 꿈꾸는 민선익입니다.
-
-## 🤙 Aboute Me
+안녕하세요. 백엔드 개발자가 되기 위해 준비중인 취준생 민선익입니다. 
 
 
+## Aboute Me 🤙 
 
 ### Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)
