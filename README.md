@@ -1,10 +1,5 @@
 <!-- <div align="center"> -->
 
-### 👐🏻 Introduction
-
-안녕하세요. 백엔드 개발자가 되기 위해 준비중인 취준생 민선익입니다. 
-
-
 ### ✏️ Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://m1nddoong.vercel.app/)
