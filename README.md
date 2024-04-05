@@ -27,9 +27,6 @@ Hi👋 I'm Seonik Min.
 
 ## Activities
 
-### Awards
-- ecological map 'Ecoya' - 2023 지역사회혁신 리빙랩 아이디어톤 장려상
-
 ### Education
 - LIKELION JAVA BACKEND SCHOOL 8st Generation
 - LIKELION University 11th class
