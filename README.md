@@ -1,8 +1,15 @@
-<!-- <div align="center"> -->
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstjsdlr990321)](https://solved.ac/alstjsdlr990321)
+
 
 ### ✏️ Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=m1nddoong)](https://velog.io/@alstjsdlr0321)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://iksun-log.vercel.app/)
+
+
+
+
 
 ### 🤙🏻 Contact
 ✉️ **Email** | alstjsdlr990321@gmail.com
