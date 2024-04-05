@@ -4,7 +4,7 @@ Hi👋 I'm Seonik Min.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstjsdlr990321)](https://solved.ac/alstjsdlr990321)
 
 
-### ✏️ Blog
+### Blog
 <a href="https://velog.io/@alstjsdlr0321">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
 </a>
@@ -26,7 +26,13 @@ Hi👋 I'm Seonik Min.
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
-  
+
+### Education
+- LIKELION JAVA BACKEND SCHOOL 8st Generation
+- LIKELION University 11th class
+- UDR
+- Korea Univ Sejong Computer Science
+  - 2018.03 ~ 2024.02  
 </div>
   
 
