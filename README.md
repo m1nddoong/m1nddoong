@@ -25,7 +25,10 @@ Hi👋 I'm Seonik Min.
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
 
 
+## Activities
 
+### Awards
+- ecological map 'Ecoya' - 2023 지역사회혁신 리빙랩 아이디어톤 장려상
 
 ### Education
 - LIKELION JAVA BACKEND SCHOOL 8st Generation
