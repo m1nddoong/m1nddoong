@@ -8,9 +8,6 @@ Hi👋 I'm Seonik Min.
 <a href="https://velog.io/@alstjsdlr0321">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
 </a>
-<a href="https://iksun-log.vercel.app/">
- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
-</a>
 
 
 ### Tech
