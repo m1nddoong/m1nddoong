@@ -1,4 +1,4 @@
-## `About Me`
+## *About Me*
 Hi👋 I'm Seonik Min.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstjsdlr990321)](https://solved.ac/alstjsdlr990321)
@@ -21,10 +21,11 @@ Hi👋 I'm Seonik Min.
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
 
+---
 
-## `Activities`
+## *Activities*
 
-### Education
+### `Education`
 - LIKELION JAVA BACKEND SCHOOL 8st Generation
 - LIKELION University 11th class
 - UDR
