@@ -29,7 +29,6 @@ Hi👋 I'm Seonik Min.
 ### `Education`
 - Korea Univ Sejong Computer Science
   - 2018.03 ~ 2024.02
-- LIKELION University 11th class 
 - LIKELION JAVA BACKEND SCHOOL 8st Generation
   - 2023.11.16 ~ 2024.05.03 
 - LIKELION Rocketdan Internship 2nd Generation
