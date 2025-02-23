@@ -33,6 +33,8 @@ Hi👋 I'm Seonik Min.
   - 2023.11.16 ~ 2024.05.03 
 - LIKELION Rocketdan Internship 2nd Generation
   - 2024.10.02 ~ 2025.01.02
+- Toucheese App
+  - 2025.01.02 ~
 </div>
   
 
